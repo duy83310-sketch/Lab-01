@@ -1,0 +1,4 @@
+Hạng	Category	Doanh thu (VND)	Nhận xét
+1	Electronics	3703769311	Nhóm có doanh thu cao nhất vượt trội (chiếm ~76.9% tổng doanh thu SUCCESS)
+2	Home	410315065	Nhóm có doanh thu đứng thứ hai (chiếm ~8.5%)
+3	Fashion	218597763	Nhóm có doanh thu đứng thứ ba (chiếm ~4.5%)
